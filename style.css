@@ -15,8 +15,6 @@ body{
     background-color: rgb(193, 29, 29);
     height: 100px;
     width: 100px;
-    
-    
     top: 0;
     transform: rotate(-45deg);
     animation: beat 1s infinite alternate;
